@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stellxto
 - 👀 I’m interested in ... Cyber Security, 
-- 🌱 I’m currently learning ...Computer science 
+- 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aa.stellato@gmail.com
 
